@@ -1,0 +1,16 @@
+{
+  "name": "souffle",
+  "version": "0.0.0",
+  "description": "Versioned, auditable objects with history and distillation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/souffle.git"
+  },
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "dependencies": {
+    "dotty": "0.0.1",
+    "deepmerge": "~0.2.5"
+  }
+}
